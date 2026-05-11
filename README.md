@@ -39,8 +39,17 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naffee&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Naffee's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naffee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naffee&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Repositories-28-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-99-orange?style=for-the-badge&logo=git" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naffee&theme=radical" alt="GitHub Stats" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naffee&theme=radical&utcOffset=1" alt="Productive Time" height="150px" />
 </p>
 
 <p align="center">
