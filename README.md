@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="YOUR_BANNER_URL_HERE" width="100%" alt="Naffee's GitHub Banner" />
+<img src="./banner.png" width="100%" alt="Naffee's GitHub Banner" />
 
 <br/>
 
